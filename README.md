@@ -15,8 +15,6 @@ This is a demonstration of micro front ends using Webpack's ModuleFederationPlug
 
 Before getting started, ensure you have Node.js and npm installed.
 
-bashCopy code
-
 `npm run install` 
 
 This command installs dependencies for the host, store, and nav applications.
@@ -28,8 +26,6 @@ This command installs dependencies for the host, store, and nav applications.
 ## Usage
 
 To run the applications in development mode:
-
-bashCopy code
 
 `npm start` 
 
@@ -45,8 +41,6 @@ Visit [http://localhost:3000](http://localhost:3000/) to view the micro front en
 
 During development, you can run each application separately:
 
-bashCopy code
-
 `npm run start:host
 npm run start:store
 npm run start:nav` 
@@ -56,8 +50,6 @@ This allows you to work on individual micro front ends independently.
 ## Build
 
 When ready to build for production:
-
-bashCopy code
 
 `npm run build` 
 

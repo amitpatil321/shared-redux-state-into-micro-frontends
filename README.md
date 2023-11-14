@@ -1,6 +1,6 @@
 # Sharing redux state between micro frontends
 
-This is a base minimum code demonstration of micro front ends using Webpack's ModuleFederationPlugin. It showcases how to create micro front ends and share a Redux state between applications.
+This is a bare minimum code demonstration of micro front ends using Webpack's ModuleFederationPlugin. It showcases how to create micro front ends and share a Redux state between applications.
 
 ## Table of Contents
 
